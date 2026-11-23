@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node.js (Frontend & Backend)
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# Python (AI Service & Data Science)
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
